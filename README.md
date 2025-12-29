@@ -13,14 +13,14 @@
 
 ---
 
-🌐 **Book a trip to tirupati:** [Live Demo](https://sjtravelsnext.vercel.app/)
+🌐 **Book a trip to tirupati :** [Live Demo](https://sjtravelsnext.vercel.app/)
 
 ---
 
 ## 🌟 Overview
 **SJ Travels NextJS** is a modern web application designed to digitize the travel experience for users seeking temple tours, homestays, and vehicle rentals.
 
-It leverages the power of **Next.js 15** and **React Server Components** to deliver near-instant page loads. The UI is crafted with **Shadcn/ui** and **Tailwind CSS**, ensuring accessibility and a stunning, responsive design that looks great on any device.
+It leverages the power of **Next.js v15** and **React Server Components** to deliver near-instant page loads. The UI is crafted with **Shadcn/ui** and **Tailwind CSS**, ensuring accessibility and a stunning, responsive design that looks great on any device.
 
 ---
 
@@ -29,9 +29,9 @@ It leverages the power of **Next.js 15** and **React Server Components** to deli
 
 This project isn't just a website; it's a **hybrid web application** powered by the **Next.js App Router**. Here is the techy breakdown of how it works in simple language:
 
-* **Server-First Rendering (RSC):** Unlike standard React apps that load entirely in your browser, this app does the heavy lifting on the *server*. Pages like `app/page.tsx` are pre-rendered on the server, meaning the user sees the content instantly without waiting for JavaScript to load.
+* **Server-First Rendering (RSC):** Pages are pre-rendered on the server using React Server Components, allowing instant content delivery with minimal client-side JavaScript.
 * **Smart Hydration:** We use a technique called "Partial Hydration". The static parts (like text and images) are sent as pure HTML. The interactive parts (like the Navbar and Carousels) are "hydrated" (activated) separately. This makes the site feel incredibly fast.
-* **Route Groups & Layouts:** The file structure uses `layout.tsx` to preserve the Navbar and Footer across pages while only updating the main content area. This reduces bandwidth usage and makes navigation instant.
+* **Route Groups & Layouts:** Shared layouts via `layout.tsx` keep persistent UI mounted while only route content updates, enabling fast, seamless navigation.
 * **Image Optimization:** All images (`Next/Image`) are automatically resized and converted to modern formats like WebP/AVIF by the Next.js server, preventing layout shifts and saving data for mobile users.
 
 ---
@@ -40,7 +40,6 @@ This project isn't just a website; it's a **hybrid web application** powered by 
 -   **Dynamic Fleet Showcase:** Browse luxury buses, tempos, and cars with fluid animations.
 -   **Interactive Carousels:** Built with **Embla Carousel**, allowing touch-friendly swiping through testimonials and hero images.
 -   **Temple & Homestay Discovery:** Dedicated sections for exploring local attractions with rich media cards.
--   **Smart Theme Switching:** Integrated **Next-Themes** for a seamless Dark/Light mode experience.
 -   **Form Validation:** Uses **Zod** schema validation with **React Hook Form** to ensure all booking inquiries are accurate and error-free before submission.
 -   **SEO Optimized:** Built-in `sitemap.ts` and `robots.ts` ensure Google indexes the site perfectly.
 
@@ -50,7 +49,7 @@ This project isn't just a website; it's a **hybrid web application** powered by 
 -   **Glassmorphism & Gradients:** Uses subtle gradient overlays and blur effects for a premium, modern feel.
 -   **Motion & Interactivity:** Elements fade in and slide up (`AOS` / `Tailwind Animate`) as you scroll, keeping the user engaged.
 -   **Mobile-First Drawers:** On mobile, navigation and details open in native-like "drawers" using the **Vaul** library, providing an app-like feel on the web.
--   **Toast Notifications:** Uses **Sonner** to provide non-intrusive feedback (like "Message Sent!") that looks sleek and disappears automatically.
+-   **Scroll-Driven Interactivity:** Features custom **Intersection Observer** hooks to render performant, animated statistical counters that trigger smoothly as the user scrolls.
 
 ---
 
@@ -76,9 +75,9 @@ If you want to run this project locally:
 git clone <your-repo-link>
 
 # Navigate to the project folder
-cd sjtravelsnextjs
+cd sjTravelsNextJS
 
-# Install dependencies (using Legacy Peer Deps if needed due to React 19/Next 15 conflicts)
+# Install dependencies (Use "Legacy Peer Deps" only wih this command if needed due to React v19/Next.js v15 conflicts)
 npm install --legacy-peer-deps
 
 # Run the development server
