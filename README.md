@@ -40,8 +40,9 @@ This project isn't just a website; it's a **hybrid web application** powered by 
 -   **Dynamic Fleet Showcase:** Browse luxury buses, tempos, and cars with fluid animations.
 -   **Interactive Carousels:** Built with **Embla Carousel**, allowing touch-friendly swiping through testimonials and hero images.
 -   **Temple & Homestay Discovery:** Dedicated sections for exploring local attractions with rich media cards.
--   **Form Validation:** Uses **Zod** schema validation with **React Hook Form** to ensure all booking inquiries are accurate and error-free before submission.
+-   **Adaptive Mobile Intelligence:** Utilizes a custom **useIsMobile** hook with media query listeners to programmatically switch layouts and navigation behaviors for handheld devices.
 -   **SEO Optimized:** Built-in `sitemap.ts` and `robots.ts` ensure Google indexes the site perfectly.
+-   **Floating Visual Layer:** Implements a custom **FloatingElement** component to create depth with staggered, delay-controlled entrance animations for a 3D layered effect.
 
 ---
 
