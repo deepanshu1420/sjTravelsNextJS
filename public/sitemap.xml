@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://travelstt.vercel.app/</loc>
+    <loc>https://sjtravelsnext.vercel.app/</loc>
     <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://travelstt.vercel.app/vehicles</loc>
+    <loc>https://sjtravelsnext.vercel.app/vehicles</loc>
     <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travelstt.vercel.app/temples</loc>
+    <loc>https://sjtravelsnext.vercel.app/temples</loc>
     <lastmod>2024-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travelstt.vercel.app/homestays</loc>
+    <loc>https://sjtravelsnext.vercel.app/homestays</loc>
     <lastmod>2024-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travelstt.vercel.app/about-us</loc>
+    <loc>https://sjtravelsnext.vercel.app/about-us</loc>
     <lastmod>2024-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

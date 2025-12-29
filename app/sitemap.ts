@@ -6,31 +6,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     {
-      url: 'https://travelstt.vercel.app',
+      url: 'https://sjtravelsnext.vercel.app/',
       lastModified: now,
       changeFrequency: 'yearly',
       priority: 1.0,
     },
     {
-      url: 'https://travelstt.vercel.app/about-us',
+      url: 'https://sjtravelsnext.vercel.app/about-us',
       lastModified: now,
       changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
-      url: 'https://travelstt.vercel.app/homestays',
+      url: 'https://sjtravelsnext.vercel.app/homestays',
       lastModified: now,
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: 'https://travelstt.vercel.app/temples',
+      url: 'https://sjtravelsnext.vercel.app/temples',
       lastModified: now,
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: 'https://travelstt.vercel.app/vehicles',
+      url: 'https://sjtravelsnext.vercel.app/vehicles',
       lastModified: now,
       changeFrequency: 'monthly',
       priority: 0.9,

@@ -25,14 +25,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://travelstt.vercel.app/"),
+  metadataBase: new URL("https://sjtravelsnext.vercel.app/"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     title: "Sharma Ji Travels - Comfortable & Affordable Travel",
     description: "Premium car and bus rentals in Tirupati for all your travel needs",
-    url: "https://travelstt.vercel.app/",
+    url: "https://sjtravelsnext.vercel.app/",
     siteName: "Sharma Ji Travels",
     locale: "en_US",
     type: "website",

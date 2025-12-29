@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://travelstt.vercel.app/sitemap.xml',
+    sitemap: 'https://sjtravelsnext.vercel.app/sitemap.xml',
   }
 }
