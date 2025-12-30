@@ -67,6 +67,21 @@ This project isn't just a website; it's a **hybrid web application** powered by 
 
 ---
 
+## 🚀 Future Enhancements
+
+This project is actively evolving, and the following improvements are planned for the future:
+
+- Integration of a secure **payment gateway** for bookings and reservations  
+- Addition of a **backend database** to manage users, orders, and availability  
+- Admin dashboard for managing tours, vehicles, and homestays  
+- Authentication and role-based access control  
+- Booking history and invoice generation  
+
+Have ideas or suggestions?  
+Feel free to **fork this repository**, experiment with new features, and open a pull request. Contributions are always welcome.
+
+---
+
 ## 🖼 Screenshots
 
 ### Landing Page
