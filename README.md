@@ -67,6 +67,54 @@ This project isn't just a website; it's a **hybrid web application** powered by 
 
 ---
 
+## 🖼 Screenshots
+
+### Landing Page
+![Landing Page](Screenshots/LandingPage.png)
+*A modern hero section welcoming users with a premium gradient design and clear call to action.*
+
+![Landing Page Alternate](Screenshots/LandingPage1.png)
+*An alternate landing layout highlighting brand identity and key offerings.*
+
+### Services Overview
+![What We Offer](Screenshots/WhatweOffer.png)
+*A structured grid layout showcasing core services like airport transfers and tour packages.*
+
+### Vehicle Fleet
+![Vehicle Fleet](Screenshots/VehicleFleet.png)
+*Interactive cards displaying luxury buses, tempos, and cars with detailed specifications.*
+
+### Temple Tours
+![Temple Tours](Screenshots/Temples.png)
+*Visually rich cards designed to explore spiritual destinations and curated temple tours.*
+
+### Homestays
+![Homestays](Screenshots/HomeStays.png)
+*A dedicated section presenting comfortable homestay options with amenities and pricing.*
+
+### About Us
+![About Section](Screenshots/AboutSection.png)
+*Detailed information about the agency’s background, mission, and service philosophy.*
+
+![About Section Alternate](Screenshots/AboutSection1.png)
+*An expanded layout focusing on company values and long-term vision.*
+
+### Customer Testimonials
+![Testimonials](Screenshots/Testimonials.png)
+*Real customer feedback displayed in a responsive, touch-friendly carousel.*
+
+### Responsive Design
+![Responsive View 1](Screenshots/Responsive.png)
+*Mobile-first layout optimized for smaller screens.*
+
+![Responsive View 2](Screenshots/Responsive1.png)
+*Showing the brand logo and footer clearly in the mobile layout.*
+
+![Responsive View 3](Screenshots/Responsive2.png)
+*Fully responsive design ensuring consistency across all device sizes.*
+
+---
+
 ## 📌 Installation/Usage
 
 If you want to run this project locally:
