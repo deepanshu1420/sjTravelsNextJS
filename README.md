@@ -113,6 +113,9 @@ This project isn't just a website; it's a **hybrid web application** powered by 
 ![Responsive View 3](Screenshots/Responsive2.png)
 *Fully responsive design ensuring consistency across all device sizes.*
 
+![Responsive View 4](Screenshots/Responsive3.png)
+*Showing responsive vehicle fleet cards with a clean, device-adaptive UI.*
+
 ---
 
 ## 📌 Installation/Usage
@@ -131,3 +134,5 @@ npm install --legacy-peer-deps
 
 # Run the development server
 npm run dev
+
+# Now open http://localhost:3000 in your browser.
