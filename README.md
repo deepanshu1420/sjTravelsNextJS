@@ -130,8 +130,7 @@ cd sjTravelsNextJS
 
 ### 2️⃣ Install dependencies
 
-> Use `Legacy Peer Deps` only wih this command if needed due to React v19/Next.js v15 conflicts
->
+> Use `Legacy Peer Deps` only wih this command if needed due to React v19/Next.js v15 conflicts,
 > Make sure you have **Node.js** installed, then run:
 
 ```bash
