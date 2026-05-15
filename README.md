@@ -16,17 +16,17 @@
 ## 🌟 Overview
 **SJ Travels NextJS** is a modern web application designed to digitize the travel experience for users seeking temple tours, homestays and vehicle rentals.
 
-It leverages the power of **Next.js v15** and **React Server Components** to deliver near-instant page loads. The UI is crafted with **Shadcn/ui** and **Tailwind CSS**, ensuring accessibility and a stunning responsive design that looks great on any device.
+It leverages the power of `Next.js v15` and **React Server Components** to deliver near-instant page loads. The UI is crafted with **Shadcn/ui** and **Tailwind CSS**, ensuring accessibility and a stunning responsive design that looks great on any device.
 
 ## 🚀 The "Next.js" Architecture
 *(How it works under the hood)*
 
-This project isn't just a website, it's a **hybrid web application** powered by the `Next.js App` Router, here is the techy breakdown of how it works in simple language:
+This project isn't just a website, it's a **hybrid web application** powered by the **Next.js App Router**, here is the techy breakdown of how it works in simple language:
 
 - **⚡ Server-First Rendering (RSC):** Pages are pre-rendered on the server using React Server Components, allowing instant content delivery with minimal client-side JavaScript.
 - **🧠 Smart Hydration:** We use a technique called "Partial Hydration", static parts (like text and images) are sent as pure HTML, interactive parts (like the Navbar and Carousels) are "hydrated" (activated) separately - This makes the site feel incredibly fast.
 - **🛣️ Route Groups & Layouts:** Shared layouts via `layout.tsx` keep persistent UI mounted while only route content updates, enabling fast, seamless navigation.
-- **🖼️ Image Optimization:** All images (`Next/Image`) are automatically resized and converted to modern formats like WebP/AVIF by the Next.js server, preventing layout shifts and saving data for mobile users.
+- **🖼️ Image Optimization:** All images (Next/Image) are automatically resized and converted to modern formats like WebP/AVIF by the Next.js server, preventing layout shifts and saving data for mobile users.
 
 ## 💡 Features / Highlights
 
