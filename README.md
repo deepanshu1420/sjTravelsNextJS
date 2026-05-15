@@ -44,18 +44,6 @@ This project isn't just a website, it's a **hybrid web application** powered by 
 - **📲 Mobile-First Drawers:** On mobile navigation and details open in native-like "drawers" using the **Vaul** library, providing an app-like feel on the web.
 - **📈 Scroll-Driven Interactivity:** Features custom **Intersection Observer** hooks to render performant, animated statistical counters that trigger smoothly as the user scrolls.
 
-## 🛠 Tech Stack Used
-
-- **🔥 Framework:** Next.js v15 (App Router)
-- **🟦 Language:** TypeScript (Strict type safety)
-- **🎨 Styling:** Tailwind CSS + Tailwind Animate
-- **🧩 Component Library:** Shadcn/ui (Radix UI Primitives)
-- **🎯 Icons:** Lucide React
-- **🌊 Animations:** Framer Motion / AOS
-- **📝 Forms:** React Hook Form + Zod
-- **📊 Charts:** Recharts (for data visualization)
-- **🛠️ Utils:** Date-fns, CLSX, Tailwind-Merge
-
 ## 📌 Future Enhancements
 
 This project is actively evolving and the following improvements are planned for the future:
@@ -117,6 +105,18 @@ Feel free to **fork this repository**, experiment with new features and open a p
 
 ![Responsive View 4](Screenshots/Responsive3.png)
 *Showing responsive vehicle fleet cards with a clean, device-adaptive UI.*
+
+## 🛠 Tech Stack Used
+
+- **🔥 Framework:** Next.js v15 (App Router)
+- **🟦 Language:** TypeScript (Strict type safety)
+- **🎨 Styling:** Tailwind CSS + Tailwind Animate
+- **🧩 Component Library:** Shadcn/ui (Radix UI Primitives)
+- **🎯 Icons:** Lucide React
+- **🌊 Animations:** Framer Motion / AOS
+- **📝 Forms:** React Hook Form + Zod
+- **📊 Charts:** Recharts (for data visualization)
+- **🛠️ Utils:** Date-fns, CLSX, Tailwind-Merge
 
 ## ⚙️ Setup & Installation
 
