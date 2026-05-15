@@ -142,7 +142,7 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
-### 4️⃣ Open the Browser and visit
+### 4️⃣ Open the Browser and Visit
 ```bash
 http://localhost:3000
 ```
