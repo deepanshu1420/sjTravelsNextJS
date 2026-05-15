@@ -69,7 +69,7 @@ This project is actively evolving and the following improvements are planned for
 🤝 Have ideas or suggestions?  
 Feel free to **fork this repository**, experiment with new features and open a pull request, contributions are always welcome!!
 
-## 🖼 Screenshots
+## 🖼 Screenshots / Demo
 
 ### 🌐 Landing Page
 ![Landing Page](Screenshots/LandingPage.png)
